@@ -1,0 +1,39 @@
+
+input[type=text]{
+    width:100%;
+    padding: 10px 20px;
+    margin: 10px 0px;
+    box-sizing: border-box;
+    border: 2px solid royalblue;
+    border-radius: 4px;
+    background-color: #EAD2AC;
+}
+
+#unos{
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    border-radius: 5px;
+    padding: 20px;
+    
+}
+
+button, input[type=submit]{
+    background-color: #EABA6B;
+    color: black;
+    padding: 10px 25px;
+    text-align: center;
+    display: inline-block;
+    font-size: 12px;
+}
+p, label{
+    color: blue;
+    align-content: center;
+}
+
+.par{
+    background-color: #2DC7FF;
+} 
+.nepar{
+    background-color: #00ABE7;
+} 
